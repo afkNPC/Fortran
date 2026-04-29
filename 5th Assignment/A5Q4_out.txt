@@ -1,0 +1,10 @@
+ --- PART (A): DOUBLE INTEGRAL ---
+ Trapezoidal Rule:   0.38858146711739333     
+ Simpson 1/3 Rule:   0.38845898928840311     
+ Simpson 3/8 Rule:   0.38845919164406240     
+ 
+ --- PART (B): TRIPLE INTEGRAL ---
+ Trapezoidal Rule:    4.5000000000000000     
+ Simpson 1/3 Rule:    4.4999999999999982     
+ Simpson 3/8 Rule:    4.5000000000000000     
+ Analytical Check: 4.5000

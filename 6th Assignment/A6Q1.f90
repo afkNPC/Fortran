@@ -33,7 +33,7 @@ program A6Q1
     velocity = (1.0d0 / h) * ((diff(1, 2) - (diff(1, 3)/2.0d0) + (diff(1, 4)/3.0d0) - (diff(1, 5)/4.0d0) + (diff(1, 6)/5.0d0)))
 
     write(*, *) "--------------------------------------------------------"
-    write(*, *) "Velocity at t=1 using Newton Forward: ", velocity
+    write(*, '(A,F10.4)') "Velocity at t=1 using Newton Forward: ", velocity
     write(20, *) "--------------------------------------------------------"
     write(20, *) "Velocity at t=1 using Newton Forward: ", velocity
 
