@@ -1,0 +1,11 @@
+
+ Matrix A:
+           4           2           6
+           3           5           4
+ Matrix B:
+           7
+           3
+           6
+ Resultant Matrix (A + B):
+          70
+          60
